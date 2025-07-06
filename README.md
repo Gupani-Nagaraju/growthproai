@@ -56,9 +56,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open vercel
-click on add new -> select project
-select your repository
-add Name
-click on deploy
+Simply open vercel -> 
+click on add new -> select project -> 
+select your repository ->
+add Name -> 
+click on deploy ->
 and click on Share -> Publish.
