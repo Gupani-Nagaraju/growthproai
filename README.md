@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: growthproai-sigma.vercel.app
+**URL**: [growthproai-sigma.vercel.app](https://growthproai-sigma.vercel.app/)
 
 ## How can I edit this code?
 
